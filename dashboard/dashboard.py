@@ -58,7 +58,7 @@ with st.sidebar:
         "Discover trending products, customer satisfaction levels, and identify our best-performing customers based on Recency, Frequency, and Monetary (RFM) parameters. "
         "Dive into visualizations showcasing the most and least popular product categories, transaction satisfaction levels, and top customers contributing to our success.")
 
-st.header('Smile Shop Online Store :sparkles:')
+st.header('Smile Shop Online Store Dashboard :sparkles:')
 
 # Visualization 1
 st.subheader("Products with the Most and Lowest Interest")
