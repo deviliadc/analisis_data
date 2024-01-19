@@ -1,4 +1,4 @@
-#Smile Shop Online Store Dashboard ✨
+# Smile Shop Online Store Dashboard ✨
 
 ## Setup environment
 ```
