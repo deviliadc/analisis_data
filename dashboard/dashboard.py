@@ -55,8 +55,8 @@ with st.sidebar:
     # Adding company logo
     st.image("https://img.freepik.com/free-vector/gradient-instagram-shop-logo-template_23-2149704603.jpg?w=1060&t=st=1705675551~exp=1705676151~hmac=e2914c1f9e6aa4193ebb1a527a1630b0ef3fc10043b858dfcd3be9fb7c51d861")
     st.write("Explore key insights and analytics for our online shop's performance. "
-         "Discover trending products, customer satisfaction levels, and identify our best-performing customers based on Recency, Frequency, and Monetary (RFM) parameters. "
-         "Dive into visualizations showcasing the most and least popular product categories, transaction satisfaction levels, and top customers contributing to our success.")
+        "Discover trending products, customer satisfaction levels, and identify our best-performing customers based on Recency, Frequency, and Monetary (RFM) parameters. "
+        "Dive into visualizations showcasing the most and least popular product categories, transaction satisfaction levels, and top customers contributing to our success.")
 
 st.header('Smile Shop Online Store :sparkles:')
 
