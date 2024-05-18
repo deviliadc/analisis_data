@@ -12,6 +12,11 @@ pip install pandas matplotlib seaborn jupyter streamlit babel
 streamlit run dashboard.py
 ```
 
+## Dashboard Link
+```
+[streamlit dashboard](https://dashboard-smileshop.streamlit.app/)
+```
+
 ## Dashboard View
 ![image](https://github.com/deviliadc/analisis_data/assets/103621728/dffc33d1-6883-4cd1-a6d7-e3e33e0225a7)
   
